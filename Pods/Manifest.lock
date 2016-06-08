@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (2.0.2)
+  - AsyncSwift (1.7.2)
+  - EZSwiftExtensions (1.4)
+  - JSONJoy-Swift (2.0.0)
+  - MBProgressHUD (0.9.2)
+  - Nuke (3.1.0)
+  - PureLayout (3.0.1)
+  - ScrollableGraphView (1.0.1)
+  - SwiftDate (3.0.8)
+  - UIImageViewWithWords (0.2.1)
+  - VGParallaxHeader (0.0.6):
+    - PureLayout
+
+DEPENDENCIES:
+  - Alamofire (~> 2.0)
+  - AsyncSwift
+  - EZSwiftExtensions
+  - JSONJoy-Swift
+  - MBProgressHUD (~> 0.9.1)
+  - Nuke (~> 3.1)
+  - ScrollableGraphView
+  - SwiftDate (~> 3.0)
+  - UIImageViewWithWords
+  - VGParallaxHeader
+
+SPEC CHECKSUMS:
+  Alamofire: 8edbab00802a752bb5240cc2abe70e7e881488ad
+  AsyncSwift: 46a78bceb11f0e5bb52747f740d9692ec78d2d7c
+  EZSwiftExtensions: db7be0022fce8e92cdfe0fadddaf835fcd9696db
+  JSONJoy-Swift: 9dc31dfb9e551c3ae7781513a86e369598102653
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  Nuke: e93fa6ad10472c2d46ddca3a9dc92fd65027e40e
+  PureLayout: f35f5384c9c4e4479df041dbe33ad7577b71ddfb
+  ScrollableGraphView: e73f490de9be4408aa95fea32a1e1ca175489fb4
+  SwiftDate: 971f8b9394f664f2226b9c3ab64e801a7291c612
+  UIImageViewWithWords: 75ddee5310b285ee6036b0246e0f6c9b2caaf45b
+  VGParallaxHeader: 1213aba58c9b0aea84f9e81ad526fde57aa4fe48
+
+PODFILE CHECKSUM: 3c2a14de7ad57b8189ee5b019750a2ebc6a1aa86
+
+COCOAPODS: 1.0.1
